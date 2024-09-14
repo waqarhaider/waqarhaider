@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @waqarhaider
-- 👀 I’m interested in Productive Software Engineering.
-- 🌱 I’m currently learning Azure and Data Science.
-- 💞️ I’m looking to collaborate on Firebase, Azure, FrontEnd, BackEnd, Data Science related development.
+- 👀 I’m interested in Data Engineering.
+- 🌱 I’m currently learning Spark Optimization.
+- 💞️ I want to collaborate on topics related to DataBricks, SnowFlake, Data Transformation, and Workflow Optimization, etc.
 - 📫 Connect with me on my email : waqarhaidercheema@gmail.com
 
 <!---
